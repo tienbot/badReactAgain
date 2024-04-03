@@ -1,0 +1,7 @@
+.card-img-top{
+    height: 225px; 
+    width: 100%; 
+    display: block;
+    /* border: 1px solid red; */
+    object-fit: contain;
+}
