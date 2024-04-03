@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/badReactAgain/static/css/main.14e1cd4b.css",
+    "main.js": "/badReactAgain/static/js/main.67313256.js",
+    "static/js/453.cdc35078.chunk.js": "/badReactAgain/static/js/453.cdc35078.chunk.js",
+    "static/media/suicide-squad.jpg": "/badReactAgain/static/media/suicide-squad.5cc97205975442e170dd.jpg",
+    "static/media/spider-man.jpg": "/badReactAgain/static/media/spider-man.86e4edcc380d17a0c2f8.jpg",
+    "static/media/dr-strange.jpg": "/badReactAgain/static/media/dr-strange.c42584c802f6b571500c.jpg",
+    "index.html": "/badReactAgain/index.html",
+    "main.14e1cd4b.css.map": "/badReactAgain/static/css/main.14e1cd4b.css.map",
+    "main.67313256.js.map": "/badReactAgain/static/js/main.67313256.js.map",
+    "453.cdc35078.chunk.js.map": "/badReactAgain/static/js/453.cdc35078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e1cd4b.css",
+    "static/js/main.67313256.js"
+  ]
+}
